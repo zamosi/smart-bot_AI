@@ -8,4 +8,4 @@ def ask_AI(question):
     return q.generate_response()
 
 if __name__ == '__main__':
-    print(ask_AI(''))    
+    print(ask_AI())    
